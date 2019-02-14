@@ -16,8 +16,6 @@ and can be built into a stand-alone application using Unity3D.
 
 •	Personal contributions to original game include: UI / Menus, player management, and level design.
 
-•	Extensions to the game: ported the game to Android and release on Google Play store, added full controller navigation for menus, created an options menu, and refactored the codebase extensively.
+Team: Jared Galloway, Clayton Kilmer, Palmer Hogan, Anisha Malynur, Brett Merrill. 
 
-Original Team: Jared Galloway, Clayton Kilmer, Palmer Hogan, Anisha Malynur, Brett Merrill. 
 
-Extended by Clayton Kilmer.
